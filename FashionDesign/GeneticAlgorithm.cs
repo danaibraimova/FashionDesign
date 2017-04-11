@@ -13,6 +13,7 @@ namespace FashionDesign
         public List<DressImage> dressimages = new List<DressImage>();
         public void Initializing(Form form)
         {
+
             for (int i = 0; i < 8; i++)
             {
                 Dress dress = new Dress();
@@ -22,6 +23,9 @@ namespace FashionDesign
             }
             ShowDressonForm(dressimages, form);
         }
+
+       
+
         public void ShowDressonForm(List<DressImage> dressimages, Form form)
         {
             foreach (Control d in form.Controls)
@@ -33,6 +37,7 @@ namespace FashionDesign
             }
             int x = 2;
             int y = 2;
+   
             for (int i = 0; i < 8; i++)
             {
                 dressimages[i].Location = new Point(x, y);

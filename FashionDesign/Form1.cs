@@ -43,7 +43,7 @@ namespace FashionDesign
                 {
                     (d as DressImage).textBox1.Text = "";
 
-                }
+                } //qweqwe
             }
         }
 
