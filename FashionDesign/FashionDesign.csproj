@@ -60,6 +60,9 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="GeneticAlgorithm.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomGenerator.cs" />
@@ -69,6 +72,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\FashionDesign.DressImage.resources" />
+    <EmbeddedResource Include="obj\Debug\FashionDesign.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\FashionDesign.Properties.Resources.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -78,6 +84,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="bin\Debug\FashionDesign.exe.config" />
+    <None Include="bin\Debug\FashionDesign.vshost.exe.config" />
+    <None Include="bin\Debug\FashionDesign.vshost.exe.manifest" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\FashionDesign.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\FashionDesign.csprojResolveAssemblyReference.cache" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -90,6 +103,72 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\FashionDesign.exe" />
+    <Content Include="bin\Debug\FashionDesign.pdb" />
+    <Content Include="bin\Debug\FashionDesign.vshost.exe" />
+    <Content Include="bin\Debug\Resources\body\000000.png" />
+    <Content Include="bin\Debug\Resources\body\000001.png" />
+    <Content Include="bin\Debug\Resources\body\000010.png" />
+    <Content Include="bin\Debug\Resources\body\000011.png" />
+    <Content Include="bin\Debug\Resources\body\000100.png" />
+    <Content Include="bin\Debug\Resources\body\000101.png" />
+    <Content Include="bin\Debug\Resources\body\000110.png" />
+    <Content Include="bin\Debug\Resources\body\000111.png" />
+    <Content Include="bin\Debug\Resources\body\001000.png" />
+    <Content Include="bin\Debug\Resources\body\001001.png" />
+    <Content Include="bin\Debug\Resources\body\001010.png" />
+    <Content Include="bin\Debug\Resources\body\001011.png" />
+    <Content Include="bin\Debug\Resources\body\001100.png" />
+    <Content Include="bin\Debug\Resources\body\001101.png" />
+    <Content Include="bin\Debug\Resources\body\001110.png" />
+    <Content Include="bin\Debug\Resources\body\001111.png" />
+    <Content Include="bin\Debug\Resources\body\010000.png" />
+    <Content Include="bin\Debug\Resources\body\010001.png" />
+    <Content Include="bin\Debug\Resources\body\010010.png" />
+    <Content Include="bin\Debug\Resources\body\010011.png" />
+    <Content Include="bin\Debug\Resources\body\010100.png" />
+    <Content Include="bin\Debug\Resources\body\010101.png" />
+    <Content Include="bin\Debug\Resources\body\010110.png" />
+    <Content Include="bin\Debug\Resources\body\010111.png" />
+    <Content Include="bin\Debug\Resources\body\011000.png" />
+    <Content Include="bin\Debug\Resources\body\011001.png" />
+    <Content Include="bin\Debug\Resources\body\011010.png" />
+    <Content Include="bin\Debug\Resources\body\011011.png" />
+    <Content Include="bin\Debug\Resources\body\011100.png" />
+    <Content Include="bin\Debug\Resources\body\011101.png" />
+    <Content Include="bin\Debug\Resources\body\011110.png" />
+    <Content Include="bin\Debug\Resources\body\011111.png" />
+    <Content Include="bin\Debug\Resources\body\100000.png" />
+    <Content Include="bin\Debug\Resources\body\100001.png" />
+    <Content Include="bin\Debug\Resources\skirts\0000.png" />
+    <Content Include="bin\Debug\Resources\skirts\0001.png" />
+    <Content Include="bin\Debug\Resources\skirts\0010.png" />
+    <Content Include="bin\Debug\Resources\skirts\0011.png" />
+    <Content Include="bin\Debug\Resources\skirts\0100.png" />
+    <Content Include="bin\Debug\Resources\skirts\0101.png" />
+    <Content Include="bin\Debug\Resources\skirts\0110.png" />
+    <Content Include="bin\Debug\Resources\skirts\0111.png" />
+    <Content Include="bin\Debug\Resources\skirts\1000.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0000.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0001.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0010.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0011.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0100.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0101.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0110.png" />
+    <Content Include="bin\Debug\Resources\sleeves\0111.png" />
+    <Content Include="bin\Debug\Resources\sleeves\1000.png" />
+    <Content Include="bin\Debug\Resources\sleeves\1001.png" />
+    <Content Include="bin\Debug\Resources\sleeves\1010.png" />
+    <Content Include="bin\Debug\Resources\sleeves\1011.png" />
+    <Content Include="obj\Debug\FashionDesign.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\FashionDesign.exe" />
+    <Content Include="obj\Debug\FashionDesign.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
