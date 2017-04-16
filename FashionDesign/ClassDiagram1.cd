@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FashionDesign.Dress">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAEAAIBAAAASAAAAAAEEAAQAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dress.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FashionDesign.DressImage">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAAAAAACAAAACAAAAAAAAEAAAAABAAAA=</HashCode>
+      <FileName>DressImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FashionDesign.GeneticAlgorithm">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAQAEAAAAABAAABEAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>GeneticAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FashionDesign.RandomGenerator">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FashionDesign.Form1">
+    <Position X="13" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAACAAAACAAAIAAACAEAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

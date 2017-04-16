@@ -58,7 +58,7 @@ namespace FashionDesign
         public DressImage CreateDressControl()
         {
             DressImage di = new DressImage();
-            di.pictureBox1.BackgroundImage= Image.FromFile("Resources/body/"+body+".png");
+            di.pictureBox1.BackgroundImage= Image.FromFile("Resources/body/" + body+".png");
             di.pictureBox3.BackgroundImage = Image.FromFile("Resources/sleeves/" + sleeve + ".png");
             di.pictureBox2.BackgroundImage = Image.FromFile("Resources/skirts/" + skirt + ".png");
             return di;
